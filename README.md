@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Umidjonov Umid
+# Hi there 👋, I'm Umedov Umidjon
 **`Software Engineer | Passionate about Crafting Digital Experiences`**
 
 ### I'm a backend developer of the digital world. There are all coding projects are in progress while I learn the magic of JavaScript...
